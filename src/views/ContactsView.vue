@@ -24,12 +24,5 @@ onMounted(() => {
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-
-  
-
-  .contacts-container{
-    
-  }
-}
+@layer components {}
 </style>

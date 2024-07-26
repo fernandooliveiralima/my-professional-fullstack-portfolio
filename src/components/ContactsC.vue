@@ -17,7 +17,8 @@ import IconGithubC from '../components/IconGithubC.vue';
                 Call me now!.</p>
             <ul class="my-4 space-y-3">
                 <li>
-                    <a href="#"
+                    <a href="https://www.linkedin.com/in/fernando-oliveira-543461131/"
+                        target="_blank"
                         class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
                         <IconLinkedinC></IconLinkedinC>
                         <span class="flex-1 ms-3 whitespace-nowrap">My Linkedin</span>
@@ -26,21 +27,24 @@ import IconGithubC from '../components/IconGithubC.vue';
                     </a>
                 </li>
                 <li>
-                    <a href="#"
+                    <a href="https://wa.link/kcmtz1"
+                        target="_blank"
                         class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
                         <IconWhatsappC></IconWhatsappC>
                         <span class="flex-1 ms-3 whitespace-nowrap">My Whatsapp</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#"
+                    <a href="mailto:oliveirafernando.contato@gmail.com"
+                        target="_blank"
                         class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
                         <IconEmailC></IconEmailC>
                         <span class="flex-1 ms-3 whitespace-nowrap">My Email</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#"
+                    <a href="https://github.com/fernandooliveiralima"
+                        target="_blank"
                         class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
                         <IconGithubC></IconGithubC>
                         <span class="flex-1 ms-3 whitespace-nowrap">My Github</span>
