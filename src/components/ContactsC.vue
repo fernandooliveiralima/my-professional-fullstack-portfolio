@@ -6,7 +6,7 @@ import IconGithubC from '../components/IconGithubC.vue';
 </script>
 
 <template>
-    <div class="dark:bg-slate-800 h-screen xl:flex items-center justify-center">
+    <div class="dark:bg-slate-800 h-screen flex items-center justify-center">
 
         <div
             class="w-full max-w-sm p-4 bg-white border border-gray-200 rounded-lg shadow sm:p-6 dark:bg-gray-800 dark:border-gray-700">
