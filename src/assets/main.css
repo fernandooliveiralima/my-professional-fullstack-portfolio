@@ -1,0 +1,11 @@
+@import 'flowbite';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    body, html{
+        @apply h-full;
+    }
+}
